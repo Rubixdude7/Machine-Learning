@@ -14,7 +14,7 @@ Author: Alan Shovic, John Shovic
 
 An expected value of 0.0 maps to Iris setosa, 0.5 to Iris versicolor, and 1.0 to Iris virginica.
 
-Expected versus Acutal
+Expected versus Actual
 0.0000	0.0027
 0.0000	0.0059
 0.0000	0.0031
