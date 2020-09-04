@@ -12,6 +12,8 @@ I modified to used five nodes for the hidden layer.
 Link: https://www.dummies.com/programming/python/how-to-build-a-simple-neural-network-in-python/
 Author: Alan Shovic, John Shovic
 
+Objective: Identify the species of iris flower based on the both the length and width of its petals and sepals
+
 An expected value of 0.0 maps to Iris setosa, 0.5 to Iris versicolor, and 1.0 to Iris virginica.
 
 Expected versus Actual
